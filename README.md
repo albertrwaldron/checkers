@@ -26,3 +26,5 @@ Prerequisites: Conda is installed on your machine
 ## Playing the game
 
 You will be the red pieces. The black pieces will be played by a computer player which decides its moves based on the Minimax algorithm.
+
+On your turn click one of your pieces to select it. The available moves for that piece will be indicated by blue dots. Click one of the terminal dots to play that move.
